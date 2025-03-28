@@ -1,6 +1,6 @@
 # GTA V Website
 ### Objective:
-recreate the GTA V game website.
+Recreate the GTA V game website.
 
 ### Tools:
 - HTML
